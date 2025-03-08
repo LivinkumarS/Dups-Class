@@ -2,4 +2,42 @@ html---> content loading, structure, typography
 
 hyper text markup language---> <></>
 
-h1-h6, p, a(href, target), span, div, (ul,ol,li), table, hr, br
+h1-h6, p, a(href, target), span, div, (ul,ol,li), table, hr, br.
+
+css
+-------
+
+css--> Cascading Style Sheet.
+
+Inserting 
+------------
+inline,
+internal,
+external.
+
+syntax:
+-------
+
+selector{
+    property1:value;
+    property2:value;
+    property3:value;
+    ...
+}
+
+selector1{
+
+}
+
+selector types 
+------------------
+
+tag name selector---> using tag's name ex: h1{}, p{}
+
+class name selector---> .classname
+properties--> class name can be repeated among multiple tags. single tag can hold multiple class names
+
+id name selector---> #idname
+properties---> very unique. 1) cannot be repeated among multiple tags. 2) only one id name for a tag.
+
+tagname<class<id.
