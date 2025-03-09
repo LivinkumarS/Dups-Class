@@ -41,3 +41,27 @@ id name selector---> #idname
 properties---> very unique. 1) cannot be repeated among multiple tags. 2) only one id name for a tag.
 
 tagname<class<id.
+
+
+
+
+Basic Types of CSS Properties
+-------------------------------
+
+color Properties:
+------------------
+
+background-color: value;
+color: value;  text color
+
+color value---> name, hex , rgb
+
+text  properties 
+------------------
+
+font-size:; keywords, numbering with units.
+font-weight:;
+font-Style:;
+font-family:;
+text-decoration: ;
+text-align:;
